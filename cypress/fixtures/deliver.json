@@ -1,0 +1,51 @@
+
+{
+    "signup": {
+        "name": "Deisi Nunes Nascimento",
+        "cpf": "00000014242",
+        "email": "deisi@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "/cnh-digital.jpg"
+    },
+    "cpf_invalido": {
+        "name": "Yuri Carlos",
+        "cpf": "x0000001A4A",
+        "email": "yuricarlos@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "/cnh-digital.jpg"
+    },
+    "email_invalido": {
+        "name": "Deisi Nunes Nascimento",
+        "cpf": "00000014242",
+        "email": "deisi.com.br",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "/cnh-digital.jpg"
+    }
+}
